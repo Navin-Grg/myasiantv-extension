@@ -1,0 +1,13 @@
+{
+  "name": "MyAsianTV",
+  "url": "https://myasiantv.ac/", 
+  "type": "site",
+  "category": "TV Shows",
+  "description": "Extension for accessing MyAsianTV content.",
+  "sources": [
+    {
+      "name": "MyAsianTV",
+      "url": "https://myasiantv.ac"
+    }
+  ]
+}
