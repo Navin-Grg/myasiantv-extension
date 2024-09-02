@@ -2,7 +2,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=myasiantv.ac&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/your-username/myasiantv-extension",
-    "fileSize": 15984,  // Adjust this based on your file's actual size
+    "fileSize": 15984,  
     "status": 1,
     "language": "en",
     "authors": [
