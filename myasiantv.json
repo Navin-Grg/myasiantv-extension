@@ -1,13 +1,19 @@
 {
-  "name": "MyAsianTV",
-  "url": "https://myasiantv.ac", 
-  "type": "site",
-  "category": "TV Shows",
-  "description": "Extension for accessing MyAsianTV content.",
-  "sources": [
-    {
-      "name": "MyAsianTV",
-      "url": "https://myasiantv.ac"
-    }
-  ]
+    "iconUrl": "https://www.google.com/s2/favicons?domain=myasiantv.ac&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/your-username/myasiantv-extension",
+    "fileSize": 15984,  // Adjust this based on your file's actual size
+    "status": 1,
+    "language": "en",
+    "authors": [
+        "YourName"
+    ],
+    "tvTypes": [
+        "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "MyAsianTV",
+    "description": "Includes MyAsianTV",
+    "url": "https://raw.githubusercontent.com/your-username/myasiantv-extension/main/MyAsianTV.cs3",
+    "name": "MyAsianTV"
 }
