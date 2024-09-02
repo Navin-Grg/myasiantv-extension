@@ -1,0 +1,19 @@
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=myasiantv.ac&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Navin-Grg/myasiantv-extension",
+    "fileSize": 15984,
+    "status": 1,
+    "language": "en",
+    "authors": [
+        "Navin-Grg"
+    ],
+    "tvTypes": [
+        "AsianDrama"
+    ],
+    "version": 3,
+    "internalName": "MyAsianTV",
+    "description": "Include: MyAsianTV",
+    "url": "https://raw.githubusercontent.com/Navin-Grg/myasiantv-extension/main/myasiantv.cs3",
+    "name": "MyAsianTV"
+}
